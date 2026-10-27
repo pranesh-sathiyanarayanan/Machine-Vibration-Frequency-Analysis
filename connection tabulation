@@ -1,1 +1,18 @@
-
+S.No.	Component	Component Pin	ESP32 GPIO Pin
+1	Acoustic Emission (AE) Sensor	Analog Output	GPIO 34
+2	AE Sensor	GND	GND
+3	AE Sensor	VCC	According to module specifications
+4	Ultrasonic Receiver	Analog Output	GPIO 35
+5	Ultrasonic Receiver	GND	GND
+6	Ultrasonic Receiver	VCC	According to module specifications
+7	16×2 I²C LCD	SDA	GPIO 25
+8	16×2 I²C LCD	SCL	GPIO 26
+9	I²C LCD	VCC	Compatible supply voltage
+10	I²C LCD	GND	GND
+11	Green LED	Anode (+) through resistor	GPIO 18
+12	Yellow LED	Anode (+) through resistor	GPIO 19
+13	Red LED	Anode (+) through resistor	GPIO 21
+14	All LEDs	Cathode (−)	GND
+15	Buzzer	Positive (+)	GPIO 22
+16	Buzzer	Negative (−)	GND
+17	ESP32	USB	Computer or suitable USB power source
