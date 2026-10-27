@@ -33,5 +33,6 @@ Prototype under development. Detection performance and fault-classification capa
 
 ## Technologies
 ESP32 | IoT | FFT | Signal Processing | AI/ML | Wi-Fi | Machine Condition Monitoring
-wokwi link:https://wokwi.com/projects/479012812116249601
+
+ wokwi link:https://wokwi.com/projects/479012812116249601
 
